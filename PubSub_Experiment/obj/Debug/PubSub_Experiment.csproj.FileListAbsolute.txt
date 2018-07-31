@@ -1,0 +1,10 @@
+D:\Projects\ICAN\PubSub_Experiment\PubSub_Experiment\bin\Debug\PubSub_Experiment.exe.config
+D:\Projects\ICAN\PubSub_Experiment\PubSub_Experiment\bin\Debug\PubSub_Experiment.exe
+D:\Projects\ICAN\PubSub_Experiment\PubSub_Experiment\bin\Debug\PubSub_Experiment.pdb
+D:\Projects\ICAN\PubSub_Experiment\PubSub_Experiment\PubSub_Experiment\obj\Debug\PubSub_Experiment.csprojResolveAssemblyReference.cache
+D:\Projects\ICAN\PubSub_Experiment\PubSub_Experiment\PubSub_Experiment\obj\Debug\PubSub_Experiment.PubSub.resources
+D:\Projects\ICAN\PubSub_Experiment\PubSub_Experiment\PubSub_Experiment\obj\Debug\PubSub_Experiment.Properties.Resources.resources
+D:\Projects\ICAN\PubSub_Experiment\PubSub_Experiment\PubSub_Experiment\obj\Debug\PubSub_Experiment.csproj.GenerateResource.Cache
+D:\Projects\ICAN\PubSub_Experiment\PubSub_Experiment\PubSub_Experiment\obj\Debug\PubSub_Experiment.csproj.CoreCompileInputs.cache
+D:\Projects\ICAN\PubSub_Experiment\PubSub_Experiment\PubSub_Experiment\obj\Debug\PubSub_Experiment.exe
+D:\Projects\ICAN\PubSub_Experiment\PubSub_Experiment\PubSub_Experiment\obj\Debug\PubSub_Experiment.pdb
