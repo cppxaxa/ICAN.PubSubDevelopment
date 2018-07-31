@@ -57,7 +57,7 @@ namespace ICAN.SIC.PubSub
 
             foreach (var hub in _hubs)
             {
-                hub.Publish(message);
+                hub.PublishDownwards(message);
             }
         }
 
@@ -94,7 +94,7 @@ namespace ICAN.SIC.PubSub
             this.parentHub = hub;
         }
 
-        public void PassThrough(IHub hub) { _hubs.Add(hub); hub.setMyParent(hub); }
+        public void PassThrough(IHub hub) { _hubs.Add(hub); hub.setMyParent(this); }
 
         public List<string> GetAllHubNames()
         {

@@ -39,6 +39,7 @@
             this.btnAction.TabIndex = 0;
             this.btnAction.Text = "Action";
             this.btnAction.UseVisualStyleBackColor = true;
+            this.btnAction.Click += new System.EventHandler(this.btnAction_Click);
             // 
             // PubSub
             // 
